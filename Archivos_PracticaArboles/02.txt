@@ -1,0 +1,1 @@
+La fórmula para calcular el área de un círculo es πr², donde π es la constante pi (aproximadamente 3,14159), r es el radio del círculo.
